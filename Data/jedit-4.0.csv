@@ -1,4 +1,4 @@
-name,wmc,dit,noc,cbo,rfc,lcom,ca,ce,npm,lcom3,loc,dam,moa,mfa,cam,ic,cbm,amc,max_cc,avg_cc,bug
+name,wmc,dit,noc,cbo,rfc,lcom,ca,ce,npm,lcom3,loc,dam,moa,mfa,cam,ic,cbm,amc,max_cc,avg_cc,<bug
 org.gjt.sp.jedit.gui.MacrosMenu,6,8,0,10,22,15,1,10,4,2,128,0,0,0.994206257,0.333333333,1,7,20.33333333,5,2.1667,0
 org.gjt.sp.jedit.options.ModeOptionPane,12,6,0,7,39,28,3,6,1,0.397727273,573,1,2,0.983655275,0.5,1,3,45.41666667,2,1.1667,1
 org.gjt.sp.jedit.gui.OptionsDialog,14,7,0,28,108,69,3,28,8,0.869230769,732,1,2,0.98048048,0.174603175,0,0,50.57142857,9,2.1429,2

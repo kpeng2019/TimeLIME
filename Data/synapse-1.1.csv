@@ -1,4 +1,4 @@
-name,wmc,dit,noc,cbo,rfc,lcom,ca,ce,npm,lcom3,loc,dam,moa,mfa,cam,ic,cbm,amc,max_cc,avg_cc,bug
+name,wmc,dit,noc,cbo,rfc,lcom,ca,ce,npm,lcom3,loc,dam,moa,mfa,cam,ic,cbm,amc,max_cc,avg_cc,<bug
 org.apache.synapse.registry.AbstractRegistry,7,1,1,10,38,13,1,9,5,0.75,230,1,0,0,0.375,0,0,31.57142857,20,3.4286,0
 org.apache.synapse.core.SynapseEnvironment,9,1,0,25,9,36,22,4,9,2,9,0,0,0,0.296296296,0,0,0,1,1,1
 org.apache.synapse.config.xml.XSLTMediatorSerializer,3,2,0,11,31,3,0,11,3,2,142,0,0,0.75,0.555555556,0,0,46.33333333,10,3.6667,0

@@ -1,4 +1,4 @@
-name,wmc,dit,noc,cbo,rfc,lcom,ca,ce,npm,lcom3,loc,dam,moa,mfa,cam,ic,cbm,amc,max_cc,avg_cc,bug
+name,wmc,dit,noc,cbo,rfc,lcom,ca,ce,npm,lcom3,loc,dam,moa,mfa,cam,ic,cbm,amc,max_cc,avg_cc,<bug
 org.apache.synapse.config.xml.ProxyServiceFactory,6,1,0,12,65,3,1,11,2,0.7,585,0.5,0,0,0.3,0,0,96.16666667,39,7,0
 org.apache.synapse.config.xml.OutMediatorFactory,4,3,0,5,9,4,0,5,3,0.666666667,30,1,0,0.6,0.666666667,0,0,6.25,1,0.5,0
 org.apache.synapse.config.xml.FaultMediatorFactory,5,2,0,11,41,6,0,11,3,0.846153846,423,0.923076923,0,0.25,0.416666667,0,0,81,17,3.8,0

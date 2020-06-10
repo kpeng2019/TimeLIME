@@ -1,4 +1,4 @@
-name,wmc,dit,noc,cbo,rfc,lcom,ca,ce,npm,lcom3,loc,dam,moa,mfa,cam,ic,cbm,amc,max_cc,avg_cc,bug
+name,wmc,dit,noc,cbo,rfc,lcom,ca,ce,npm,lcom3,loc,dam,moa,mfa,cam,ic,cbm,amc,max_cc,avg_cc,<bug
 org.apache.camel.component.cxf.CxfComponent,5,3,0,7,10,0,1,7,4,0.25,43,1,1,0.921052632,0.36,1,2,7.4,1,0.6,0
 org.apache.camel.impl.DefaultExchangeFormatter,4,1,0,3,5,4,1,2,3,0.666666667,17,1,1,0,0.5,0,0,3,1,0.5,0
 org.apache.camel.component.jetty.JettyHttpComponent,20,4,0,26,95,144,2,26,13,0.842105263,433,1,0,0.727272727,0.197368421,4,5,20.3,3,1,0

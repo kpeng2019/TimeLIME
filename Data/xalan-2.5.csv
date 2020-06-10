@@ -1,4 +1,4 @@
-name,wmc,dit,noc,cbo,rfc,lcom,ca,ce,npm,lcom3,loc,dam,moa,mfa,cam,ic,cbm,amc,max_cc,avg_cc,bug
+name,wmc,dit,noc,cbo,rfc,lcom,ca,ce,npm,lcom3,loc,dam,moa,mfa,cam,ic,cbm,amc,max_cc,avg_cc,<bug
 org.apache.xpath.res.XPATHErrorResources_sv,3,4,0,1,4,1,0,1,2,1.428571429,1872,0,0,0.976190476,1,0,0,618.3333333,1,0.3333,1
 org.apache.xalan.xsltc.compiler.TransletOutput,5,3,0,20,33,0,0,20,4,0.5,176,1,1,0.933333333,0.333333333,2,7,33.8,6,1.8,0
 org.apache.xalan.lib.Extensions,13,1,0,11,54,76,1,10,9,0.875,371,0.5,1,0,0.208333333,0,0,27.23076923,5,1.9231,1

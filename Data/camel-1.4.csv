@@ -1,4 +1,4 @@
-name,wmc,dit,noc,cbo,rfc,lcom,ca,ce,npm,lcom3,loc,dam,moa,mfa,cam,ic,cbm,amc,max_cc,avg_cc,bug
+name,wmc,dit,noc,cbo,rfc,lcom,ca,ce,npm,lcom3,loc,dam,moa,mfa,cam,ic,cbm,amc,max_cc,avg_cc,<bug
 org.apache.camel.view.RouteDotGenerator,8,2,0,8,31,28,1,7,1,2,394,0,0,0.588235294,0.347222222,1,1,48.25,7,3.125,1
 org.apache.camel.component.cxf.feature.MessageInvokerInterceptor,5,0,0,9,17,10,2,8,2,2,97,0,0,0,0.45,0,0,18.4,2,1,0
 org.apache.camel.builder.script.Groovy,1,1,0,0,1,0,0,0,1,2,1,0,0,0,1,0,0,0,1,1,0

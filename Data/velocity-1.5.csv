@@ -1,4 +1,4 @@
-name,wmc,dit,noc,cbo,rfc,lcom,ca,ce,npm,lcom3,loc,dam,moa,mfa,cam,ic,cbm,amc,max_cc,avg_cc,bug
+name,wmc,dit,noc,cbo,rfc,lcom,ca,ce,npm,lcom3,loc,dam,moa,mfa,cam,ic,cbm,amc,max_cc,avg_cc,<bug
 org.apache.velocity.runtime.log.JdkLogChute,6,1,0,2,16,3,0,2,5,0.866666667,90,0.333333333,0,0,0.466666667,0,0,13.5,2,1.3333,3
 org.apache.velocity.util.introspection.IntrospectorBase,9,1,1,7,17,34,1,6,4,0.6875,93,1,2,0,0.351851852,0,0,9.111111111,1,0.8889,3
 org.apache.velocity.runtime.parser.node.ASTIfStatement,5,2,0,10,12,10,4,8,5,2,62,0,0,0.903225806,0.4,1,2,11.4,1,0.6,0

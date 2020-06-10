@@ -1,4 +1,4 @@
-name,wmc,dit,noc,cbo,rfc,lcom,ca,ce,npm,lcom3,loc,dam,moa,mfa,cam,ic,cbm,amc,max_cc,avg_cc,bug
+name,wmc,dit,noc,cbo,rfc,lcom,ca,ce,npm,lcom3,loc,dam,moa,mfa,cam,ic,cbm,amc,max_cc,avg_cc,<bug
 org.apache.xalan.xsltc.compiler.FilterExpr,7,3,0,19,35,0,0,19,6,0.083333333,226,1,1,0.922077922,0.306122449,2,9,31,3,1.5714,1
 org.apache.xpath.operations.Operation,12,2,14,22,23,0,17,7,12,0.363636364,149,1,2,0.731707317,0.21875,1,7,11.25,5,1.5833,1
 org.apache.xalan.xsltc.runtime.BasisLibrary,69,1,0,36,198,2330,20,18,64,1.005793226,2601,0.303030303,0,0,0.102076125,0,0,36.2173913,49,4.2464,3
