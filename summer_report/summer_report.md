@@ -19,10 +19,12 @@
     3) apply the prototype plan to everyone in the neighborhood.
 
 * Early result: 
+    <img src="./overlap.png" width="40%"></img><img src="./ws.png" width="40%"></img>
   * Lower similarity and weighted scores (but still accpetable)
   * much less effort needed (5 prototypes vs. hundreds of plans)
 * Future work:
     * Might try different clustering methods.
+    
 ### TimeLIME for better project health
 
 * Inspired from [Patrick's work](https://arxiv.org/pdf/2006.07240.pdf)
