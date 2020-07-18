@@ -18,8 +18,9 @@
     2) generate a prototype plan based on each centroid
     3) apply the prototype plan to everyone in the neighborhood.
 
-* Early result: 
-    <img src="./overlap.png" width="40%"></img><img src="./ws.png" width="40%"></img>
+* Early result:
+   ![](https://github.com/kpeng2019/TimeLIME/edit/master/summer_report/overlap.png)
+   ![](https://github.com/kpeng2019/TimeLIME/edit/master/summer_report/ws.png)
   * Lower similarity and weighted scores (but still accpetable)
   * much less effort needed (5 prototypes vs. hundreds of plans)
 * Future work:
