@@ -19,8 +19,10 @@
     3) apply the prototype plan to everyone in the neighborhood.
 
 * Early result:
-   ![](https://github.com/kpeng2019/TimeLIME/edit/master/summer_report/overlap.png)
-   ![](https://github.com/kpeng2019/TimeLIME/edit/master/summer_report/ws.png)
+   * Overlap score:\
+   <img src="./overlap.png" width="60%"></img>
+   * Weighted improvement score:\
+   <img src="./ws.png" width="60%"></img> 
   * Lower similarity and weighted scores (but still accpetable)
   * much less effort needed (5 prototypes vs. hundreds of plans)
 * Future work:
@@ -39,7 +41,3 @@
     * Actionable analysis & user study
     * Transfer planning across projects: train on 800 projects, apply on 200.
     * Comparision data: collect archived or poorly maintained repos.
-
-
-
-
