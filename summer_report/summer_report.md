@@ -32,9 +32,9 @@
 
 * Inspired from [Patrick's work](https://arxiv.org/pdf/2006.07240.pdf)
 * Same planning process as in the defect reduction task.
-* Make plans to optimize project health goals (i.e. stargazers, closed_PR)
+* Make plans to optimize project health goals (i.e. stargazers, PR, commits)
 
-* Early result:
+* Early result (goal = stars):
    * Overlap score:\
    <img src="./overlap1.png" width="60%"></img>
    * Weighted improvement score:\
@@ -42,6 +42,7 @@
    
 
 * Future work:
-    * Actionable analysis & user study
+    * Other goals
     * Transfer planning across projects: train on 800 projects, apply on 200.
     * Comparision data: collect archived or poorly maintained repos.
+    * Actionable analysis & user study
