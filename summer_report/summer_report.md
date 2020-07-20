@@ -22,7 +22,7 @@
    * Overlap score:\
    <img src="./overlap.png" width="60%"></img>
    * Weighted improvement score:\
-   <img src="./ws.png" width="60%"></img> 
+   <img src="./wscore.png" width="60%"></img> 
   * Lower similarity and weighted scores (but still accpetable)
   * much less effort needed (5 prototypes vs. hundreds of plans)
 * Future work:
