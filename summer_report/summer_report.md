@@ -38,7 +38,7 @@
    * Overlap score:\
    <img src="./overlap1.png" width="60%"></img>
    * Weighted improvement score:\
-   <img src="./normal_score.png" width="60%"></img> 
+   <img src="./nscore.png" width="60%"></img> 
    
 
 * Future work:
