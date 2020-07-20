@@ -24,7 +24,8 @@
    * Weighted improvement score:\
    <img src="./wscore.png" width="60%"></img> 
   * Lower similarity and weighted scores (but still accpetable)
-  * much less effort needed (5 prototypes vs. hundreds of plans)
+  * much less effort needed (<10 prototypes vs. hundreds of plans)\
+  <img src="./prototypes.png" width="60%"></img>
 * Future work:
     * Might try different clustering methods.
     
@@ -42,6 +43,7 @@
    
 
 * Future work:
+    * Other methods other than TimeLIME
     * Other goals
     * Transfer planning across projects: train on 800 projects, apply on 200.
     * Comparision data: collect archived or poorly maintained repos.
