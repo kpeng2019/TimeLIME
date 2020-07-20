@@ -48,3 +48,6 @@
     * Transfer planning across projects: train on 800 projects, apply on 200.
     * Comparision data: collect archived or poorly maintained repos.
     * Actionable analysis & user study
+
+## Will Do
+* ESA write up for the CSC study.
