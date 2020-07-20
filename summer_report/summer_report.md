@@ -35,7 +35,11 @@
 * Make plans to optimize project health goals (i.e. stargazers, closed_PR)
 
 * Early result:
-   *
+   * Overlap score:\
+   <img src="./overlap1.png" width="60%"></img>
+   * Weighted improvement score:\
+   <img src="./normal_score.png" width="60%"></img> 
+   
 
 * Future work:
     * Actionable analysis & user study
