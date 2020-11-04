@@ -37,7 +37,7 @@ result will be used to filter out plans if they are not
 precedented according to the historical records. TimeLIME only mines
 changes that happended to `actionable` features.
 
-<img src="./summer_report/rules.png" width="60%"></img>
+<img src="./summer_report/rules.png" width="40%"></img>
 
 ## Step 3: Generate plans
 TimeLIME generate plans by finding the maximum conjunction of actionable
@@ -54,12 +54,13 @@ relatively high cyclomatic complexity into 2 simpler methods.
 ## Step 5: Apply the corresponding method
 
 The effect
-of *extract method* is shown as follows.
+of *extract method* is shown as follows. By extracting the rather complex piece of code into an individual method,
+maintainability and readability will get improved for future maintenance.
 
 * Before :\
-  <img src="./summer_report/b4.png" width="70%"></img>
+  <img src="./summer_report/b4.png" width="80%"></img>
 * After :\
-  <img src="./summer_report/after.png" width="70%"></img>
+  <img src="./summer_report/after.png" width="80%"></img>
   
 Apparently, after the *extract method* both `avg_cc` and `max_cc` are
 reduced and `dam` increased since the new method is private.
