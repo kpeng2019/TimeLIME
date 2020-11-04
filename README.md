@@ -49,7 +49,7 @@ One code refactoring method that can match the plan proposed by TimeLIME
 is *extract method*. This method can be used to split one method with
 relatively high cyclomatic complexity into 2 simpler methods.
 
-
+<img src="./summer_report/refactoring.png" width="90%"></img>
 
 ## Step 5: Apply the corresponding method
 
